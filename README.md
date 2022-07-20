@@ -4,14 +4,9 @@ Show your list todo apps
 
 ## Table of Content
 
-- [Demo vercel](#Demo-vercel)
 - [Prerequisite](#Prerequisite)
 - [Getting started](#Getting-started)
 - [Build to production](#Build-to-production)
-
-## Demo Vercel
-
-- 
 
 ## Prerequisite
 
